@@ -1,0 +1,38 @@
+a:hover {
+    background-color: lightblue;
+    text-decoration: underline;
+}
+body {
+    background-image: url(wd.jpg);
+}
+#countries {
+     border: 2px solid black;
+     width: 250px;
+     border-radius: 10px;
+     text-align: center;
+     clear: both;
+} 
+#study centre {
+     border: 2px solid black;
+     width: 250px;
+     border-radius: 10px;
+     text-align: center;
+}
+#london {
+     background-image: url(uk.jpg);
+     width: 270px;
+     height: 170px;
+     border-radius:  10px;
+     text-align: center;
+     left: 540px;
+     top: 520px;
+     margin-left: 550px;
+}
+#note {
+       left: 540px;
+       top: 700px;
+       margin-left: 550px;
+}
+#form{
+    margin: 2px solid red;
+}
