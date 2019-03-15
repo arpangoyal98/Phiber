@@ -11,7 +11,7 @@ body {
      border-radius: 10px;
      text-align: center;
      clear: both;
-} 
+}
 #study centre {
      border: 2px solid black;
      width: 250px;
@@ -35,4 +35,16 @@ body {
 }
 #form{
     margin: 2px solid red;
+}
+.row{
+  width: 100%;
+}
+@media (min-width:1200px) {
+
+}
+@media (min-width: 950px) and (max-width:1199px) {
+
+}
+@media (max-width: 949px) {
+
 }
